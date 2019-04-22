@@ -92,6 +92,7 @@ def input_string(locationType, locatorExpression, inputContent):
     global driver
     try:
         getElement(driver, locationType, locatorExpression).send_keys(inputContent)
+        # print(inputContent)
     except Exception as e:
         raise e
 
@@ -273,10 +274,11 @@ def waitPressenceOfElementLocated(locationType, locatorExprexxion, *arg):
 
 def waitFrameToBeAvailableAndSwitchToIt(locationType, locatorExprexxion, *args):
     # 检查frame 是否存在，存在则切换进frame控件中
-    global waitUtil,driver
+    global  driver
     try:
-        waitUtil.frameToBeAvailableAndSwitchToIt(locationType, locatorExprexxion)
+        driver.switch_to.frame(getElement(driver,locationType, locatorExprexxion))
     except Exception as e:
+        # print("error...")
         raise e
 
 

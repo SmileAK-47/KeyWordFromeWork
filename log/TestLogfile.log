@@ -18733,3 +18733,865 @@ PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\
 KeyError: 'faild'
 
 2019-04-19 18:10:38,006 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 08:53:20,225 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 08:53:25,023 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 08:53:37,603 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 08:53:42,767 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 08:53:42,956 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 08:53:43,305 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 08:53:43,658 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 08:53:43,924 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 08:53:49,090 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 08:53:49,367 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 08:53:51,542 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 08:54:22,021 TestSendMailWithAttachment.py[line:309] INFO 步骤'显示等待附件上传完毕 执行通过！
+2019-04-22 08:54:25,184 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 08:54:25,345 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 08:54:28,509 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 08:54:58,883 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 08:55:29,500 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 08:55:29,662 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:11:15,622 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:11:20,226 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:11:31,849 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:11:37,029 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:11:37,262 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:11:37,623 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:11:37,973 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:11:38,235 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:11:43,409 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:11:43,689 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:11:45,872 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:12:16,333 TestSendMailWithAttachment.py[line:309] INFO 步骤'显示等待附件上传完毕 执行通过！
+2019-04-22 09:12:19,504 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:12:19,696 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:12:22,865 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:12:53,312 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:17:30,542 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:17:35,112 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:17:47,624 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:17:52,794 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:17:52,986 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:17:53,331 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:17:53,690 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:17:53,958 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:17:59,136 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:17:59,398 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:18:01,576 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:18:04,761 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:18:05,018 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:18:08,196 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:18:38,589 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:19:09,228 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:19:09,396 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:19:40,075 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:19:43,243 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:19:43,680 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:19:46,902 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:19:46,936 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:19:46,936 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 09:34:05,322 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:34:09,995 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:34:27,210 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:34:32,405 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:34:32,598 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:34:32,958 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:34:33,305 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:34:33,577 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:34:38,756 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:34:39,043 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:34:41,230 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:34:44,404 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:34:44,660 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:34:47,851 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:35:18,273 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:35:18,523 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:35:18,706 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:35:49,411 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:35:52,581 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:35:53,011 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:35:56,250 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:35:56,283 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:35:56,284 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 09:37:25,761 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:37:30,647 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:37:46,442 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:37:51,616 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:37:51,816 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:37:52,208 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:37:52,544 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:37:52,807 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:37:57,986 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:37:58,266 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:38:00,438 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:38:03,627 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:38:03,875 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:38:07,053 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:38:37,500 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:38:40,677 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:38:40,903 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:38:41,078 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:39:11,515 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:39:14,687 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:39:15,130 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:39:18,355 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:39:18,389 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:39:18,390 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 09:41:23,658 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:41:28,227 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:41:42,820 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:41:48,011 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:41:48,220 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:41:48,620 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:41:48,975 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:41:49,259 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:41:54,440 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:41:54,729 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:41:56,920 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:42:00,097 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:42:00,356 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:42:03,548 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:42:33,980 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:42:37,152 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:42:37,365 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:42:37,540 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:42:40,713 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:43:11,415 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:43:14,587 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:43:15,032 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:43:18,206 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:43:21,442 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:43:21,477 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:43:21,477 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 09:46:40,015 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:46:44,711 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:46:44,711 TestSendMailWithAttachment.py[line:309] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:46:56,682 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:46:56,682 TestSendMailWithAttachment.py[line:309] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:47:01,996 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:01,996 TestSendMailWithAttachment.py[line:309] INFO 步骤'休息 执行通过！
+2019-04-22 09:47:02,328 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:02,328 TestSendMailWithAttachment.py[line:309] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:47:02,865 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:02,866 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:47:03,366 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:03,366 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:47:03,764 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:03,764 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:47:09,051 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:09,051 TestSendMailWithAttachment.py[line:309] INFO 步骤'休息 执行通过！
+2019-04-22 09:47:09,435 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:09,435 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:47:11,780 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:11,780 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:47:15,081 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:15,081 TestSendMailWithAttachment.py[line:309] INFO 步骤'休息 执行通过！
+2019-04-22 09:47:15,380 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:15,380 TestSendMailWithAttachment.py[line:309] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:47:18,680 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126邮箱发送邮件.xlsx'
+
+2019-04-22 09:47:18,680 TestSendMailWithAttachment.py[line:309] INFO 步骤'休息 执行通过！
+2019-04-22 09:47:53,390 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:47:57,981 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:48:10,358 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:48:15,537 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:48:15,731 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:48:16,107 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:48:16,461 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:48:16,739 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:48:21,918 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:48:22,233 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:48:24,421 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:48:27,598 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:48:27,837 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:48:31,019 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:49:01,436 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:49:04,605 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:49:04,817 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:49:04,990 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:49:08,161 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:49:38,866 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:49:42,037 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:49:42,484 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:49:45,654 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:49:48,877 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:49:48,912 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:49:48,912 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 09:52:27,794 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:52:32,442 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:52:46,573 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:52:51,755 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:52:51,951 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:52:52,304 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:52:52,673 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:52:52,942 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:52:58,116 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:52:58,399 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:53:00,611 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:53:03,787 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:53:04,042 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:53:07,224 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:53:37,629 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:53:40,813 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:53:41,022 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:53:41,205 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:53:44,380 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:54:15,100 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:54:18,269 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:54:18,714 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:54:21,884 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:54:25,115 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:54:25,150 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:54:25,151 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 09:55:44,532 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 09:55:49,116 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 09:56:00,959 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 09:56:06,195 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:56:06,450 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 09:56:06,827 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 09:56:07,202 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 09:56:07,490 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 09:56:12,667 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:56:12,947 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 09:56:15,131 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 09:56:18,329 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:56:18,592 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 09:56:21,777 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:56:52,222 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 09:56:55,409 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:56:55,632 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 09:56:55,818 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 09:56:58,992 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:57:29,698 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 09:57:32,877 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 09:57:33,317 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 09:57:36,488 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 09:57:39,728 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 09:57:39,765 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 09:57:39,765 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 10:40:39,800 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 10:40:44,608 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 10:40:57,228 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 10:41:02,435 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:41:02,693 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 10:41:03,091 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 10:41:03,514 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 10:41:03,808 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 10:41:08,997 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:41:09,298 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 10:41:11,495 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 10:41:14,700 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:41:15,021 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 10:41:18,221 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:41:48,413 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 10:41:51,595 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:41:51,856 TestSendMailWithAttachment.py[line:317] INFO 步骤'点击 执行通过！
+2019-04-22 10:41:52,088 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 10:41:52,275 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 10:41:55,456 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:45:31,855 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 10:45:36,489 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 10:45:47,998 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 10:45:53,226 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:45:53,504 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 10:45:53,924 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 10:45:54,333 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 10:45:54,631 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 10:45:59,819 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:46:00,111 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 10:46:02,301 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 10:46:05,489 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:46:05,761 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 10:46:08,950 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:46:39,408 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 10:46:42,585 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:47:13,321 TestSendMailWithAttachment.py[line:309] INFO 步骤'点击 执行通过！
+2019-04-22 10:47:44,118 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 10:47:44,303 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 10:47:47,489 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:48:18,233 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 10:48:21,415 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 10:48:21,850 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 10:48:25,035 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 10:48:47,276 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 10:48:47,311 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 10:48:47,311 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 11:03:10,784 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 11:03:15,414 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 11:03:27,035 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 11:03:32,219 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:03:32,432 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 11:03:32,788 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 11:03:33,125 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 11:03:33,384 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 11:03:38,563 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:03:38,836 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 11:03:41,011 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 11:03:44,189 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:03:44,437 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 11:03:47,615 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:04:17,931 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 11:04:21,102 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:04:51,678 TestSendMailWithAttachment.py[line:309] INFO 步骤'点击 执行通过！
+2019-04-22 11:05:22,324 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 11:05:22,505 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 11:05:25,685 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:05:56,306 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 11:23:17,737 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 11:23:22,431 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 11:23:35,118 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 11:23:40,301 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:23:40,505 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 11:23:40,873 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 11:23:41,217 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 11:23:41,498 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 11:23:46,684 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:23:47,005 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 11:23:49,196 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 11:23:52,380 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:23:52,632 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 11:23:55,818 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:24:26,259 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 11:24:29,441 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:24:29,703 TestSendMailWithAttachment.py[line:317] INFO 步骤'点击 执行通过！
+2019-04-22 11:25:00,436 TestSendMailWithAttachment.py[line:309] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 11:25:00,615 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 11:25:03,801 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:25:34,238 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 11:25:37,418 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 11:25:37,864 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 11:25:41,058 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:25:44,289 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 11:25:44,329 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 11:25:44,329 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 11:35:06,789 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 11:35:11,443 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 11:35:24,759 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 11:35:29,955 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:35:30,157 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 11:35:30,500 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 11:35:30,918 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 11:35:31,196 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 11:35:36,400 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:35:36,709 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 11:35:38,897 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 11:35:42,080 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:35:42,319 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 11:35:45,501 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:35:45,717 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 11:35:48,897 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:35:49,182 TestSendMailWithAttachment.py[line:317] INFO 步骤'点击 执行通过！
+2019-04-22 11:35:49,425 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 11:35:49,602 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 11:35:52,782 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:36:23,236 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 11:36:26,410 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 11:36:26,861 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 11:36:30,034 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:36:33,266 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 11:36:33,301 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 11:36:33,301 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 11:40:19,136 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 11:40:23,788 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 11:40:35,267 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 11:40:40,452 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:40:40,700 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 11:40:41,072 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 11:40:41,444 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 11:40:41,723 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 11:40:46,917 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:40:47,241 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 11:40:49,435 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 11:40:52,617 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:40:52,864 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 11:40:56,051 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:40:56,263 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 11:40:59,443 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:40:59,748 TestSendMailWithAttachment.py[line:317] INFO 步骤'点击 执行通过！
+2019-04-22 11:40:59,978 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 11:41:00,157 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 11:41:03,335 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:41:34,056 TestSendMailWithAttachment.py[line:309] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 11:41:37,232 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 11:41:37,684 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 11:41:40,862 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:41:44,113 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 11:41:44,150 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 11:41:44,150 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条
+2019-04-22 11:43:25,806 TestSendMailWithAttachment.py[line:252] INFO ------开始执行用例------ 发送附带附件的邮箱------
+2019-04-22 11:43:30,477 TestSendMailWithAttachment.py[line:317] INFO 步骤'开的网页 执行通过！
+2019-04-22 11:43:42,098 TestSendMailWithAttachment.py[line:317] INFO 步骤'使用cookie登录 执行通过！
+2019-04-22 11:43:47,288 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:43:47,548 TestSendMailWithAttachment.py[line:317] INFO 步骤'判断“写信”按钮是否在页面上可见 执行通过！
+2019-04-22 11:43:47,940 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击“写信”按钮 执行通过！
+2019-04-22 11:43:48,310 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人地址 执行通过！
+2019-04-22 11:43:48,591 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入收件人邮箱 执行通过！
+2019-04-22 11:43:53,783 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:43:54,077 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击上传附件链接 执行通过！
+2019-04-22 11:43:56,278 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入附件所在的绝对路径 执行通过！
+2019-04-22 11:43:59,468 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:43:59,739 TestSendMailWithAttachment.py[line:317] INFO 步骤'模拟键盘回车键 执行通过！
+2019-04-22 11:44:02,941 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:44:03,170 TestSendMailWithAttachment.py[line:317] INFO 步骤'如果邮件正文frame框是可见，切换进该frame中 执行通过！
+2019-04-22 11:44:06,362 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:44:06,658 TestSendMailWithAttachment.py[line:317] INFO 步骤'点击 执行通过！
+2019-04-22 11:44:06,883 TestSendMailWithAttachment.py[line:317] INFO 步骤'输入邮件正文 执行通过！
+2019-04-22 11:44:07,074 TestSendMailWithAttachment.py[line:317] INFO 步骤'退出邮件正文的fraem 执行通过！
+2019-04-22 11:44:10,261 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:44:10,536 TestSendMailWithAttachment.py[line:317] INFO 步骤'单击邮件发送按钮 执行通过！
+2019-04-22 11:44:13,721 TestSendMailWithAttachment.py[line:317] INFO 步骤'等待邮件发送成功，返回结果 执行通过！
+2019-04-22 11:44:14,362 TestSendMailWithAttachment.py[line:309] INFO 步骤'断言页面源码是否出现’发送成功‘ 执行通过！
+2019-04-22 11:44:17,546 TestSendMailWithAttachment.py[line:317] INFO 步骤'休息 执行通过！
+2019-04-22 11:44:20,799 TestSendMailWithAttachment.py[line:317] INFO 步骤'关闭浏览器 执行通过！
+2019-04-22 11:44:20,839 TestSendMailWithAttachment.py[line:214] DEBUG 写excel出错，Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 11:44:20,839 TestSendMailWithAttachment.py[line:328] INFO 共 2 条用例，1 条需要被执行，本次执行通过0条

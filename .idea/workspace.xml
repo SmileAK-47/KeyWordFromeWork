@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/util/Log.py" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc8e0ac2-8a68-4ce7-bb4f-a6a054897831" name="Default" comment="" />
+    <list default="true" id="fc8e0ac2-8a68-4ce7-bb4f-a6a054897831" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/PageAction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/TestLogfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/TestLogfile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/126邮箱发送邮件.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/126邮箱发送邮件.xlsx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PageAction.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PageAction.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/action/PageAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="906">
-              <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+            <state relative-caret-position="550">
+              <caret line="291" column="8" lean-forward="true" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
               <folding>
                 <element signature="e#41#71#0" expanded="true" />
               </folding>
@@ -32,8 +37,8 @@
       <file leaf-file-name="WaitUtil.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/WaitUtil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-350">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
               <folding>
                 <element signature="e#31#74#0" expanded="true" />
               </folding>
@@ -44,7 +49,7 @@
       <file leaf-file-name="ParseExcel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1777">
+            <state relative-caret-position="-350">
               <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
               <folding>
                 <element signature="e#35#50#0" expanded="true" />
@@ -57,15 +62,33 @@
         <entry file="file://$PROJECT_DIR$/RunTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSendMailWithAttachment.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mail126TestLogfile.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/Mail126TestLogfile.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestLogfile.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/TestLogfile.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="19379" column="39" lean-forward="true" selection-start-line="19379" selection-start-column="39" selection-end-line="19379" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSendMailWithAttachment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-535">
+            <state relative-caret-position="25">
               <caret line="253" column="50" selection-start-line="253" selection-start-column="50" selection-end-line="253" selection-end-column="50" />
               <folding>
                 <element signature="e#4188#4219#0" expanded="true" />
@@ -94,7 +117,6 @@
       <find>获取</find>
       <find>loadWorkBook</find>
       <find>显示</find>
-      <find>input_string</find>
       <find>print</find>
       <find>li</find>
       <find>页面源码中是否包</find>
@@ -115,11 +137,15 @@
       <find>waitFrameToBeAvailableAndSwitchToIt</find>
       <find>条需要被执行</find>
       <find>press_enter_key</find>
+      <find>input_string</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>是否存在</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,18 +171,19 @@
         <option value="$PROJECT_DIR$/testData/cook4.10.py" />
         <option value="$PROJECT_DIR$/util/ObjiectMap.py" />
         <option value="$PROJECT_DIR$/testData/print_number.py" />
+        <option value="$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py" />
         <option value="$PROJECT_DIR$/util/WaitUtil.py" />
         <option value="$PROJECT_DIR$/action/PageAction.py" />
-        <option value="$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="621" />
-    <option name="y" value="5" />
-    <option name="width" value="1025" />
+    <option name="x" value="278" />
+    <option name="y" value="20" />
+    <option name="width" value="1559" />
     <option name="height" value="1023" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -172,7 +199,7 @@
             <path>
               <item name="KeyWordFromeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="KeyWordFromeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="testData" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="G:/KeyWordFromeWork001" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -338,13 +365,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81710213" visible="true" weight="0.117492095" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5749441" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12765957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32997763" />
       <window_info id="Favorites" order="2" sideWeight="0.18289787" side_tool="true" weight="0.1032666" />
@@ -360,21 +388,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13593256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31208053" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -413,23 +441,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5275">
-          <caret line="216" column="33" lean-forward="true" selection-start-line="216" selection-start-column="33" selection-end-line="216" selection-end-column="33" />
-          <folding>
-            <element signature="e#4188#4219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RunTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -622,27 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/TestLogfile.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/Mail126TestLogfile.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -720,9 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="e#20#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,27 +720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://G:/py/pyanzhuagn/Lib/site-packages/openpyxl/worksheet/worksheet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
           <caret line="458" selection-start-line="458" selection-end-line="458" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1777">
-          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-          <folding>
-            <element signature="e#35#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,10 +734,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/WaitUtil.py">
+    <entry file="file://$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="253" column="50" selection-start-line="253" selection-start-column="50" selection-end-line="253" selection-end-column="50" />
+          <folding>
+            <element signature="e#4188#4219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionpicutres/2019-4-22/09-57-32-891270.Png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionpicutres/2019-4-22/09-57-29-278548.Png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-350">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Mail126TestLogfile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/TestLogfile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="19379" column="39" lean-forward="true" selection-start-line="19379" selection-start-column="39" selection-end-line="19379" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/WaitUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
           <folding>
             <element signature="e#31#74#0" expanded="true" />
           </folding>
@@ -776,20 +800,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/action/PageAction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+        <state relative-caret-position="550">
+          <caret line="291" column="8" lean-forward="true" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
           <folding>
             <element signature="e#41#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-535">
-          <caret line="253" column="50" selection-start-line="253" selection-start-column="50" selection-end-line="253" selection-end-column="50" />
-          <folding>
-            <element signature="e#4188#4219#0" expanded="true" />
           </folding>
         </state>
       </provider>
