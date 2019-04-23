@@ -6,7 +6,7 @@ import os
 parentDirPath = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 #cookie路径
-cookiePath=parentDirPath+"\\config\\add_cookie.txt"
+# cookiePath=parentDirPath+"\\config\\add_cookie.txt"
 
 # 异常截图存放目录绝对路径
 screenPicturesDir = parentDirPath + "\\exceptionpicutres\\"

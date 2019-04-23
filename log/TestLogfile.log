@@ -19595,3 +19595,2147 @@ KeyError: 'faild'
 KeyError: 'faild'
 
 2019-04-22 11:44:20,839 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 15:06:01,920 TestSendMailWithAttachment.py[line:252] INFO ------¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 15:06:06,901 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:20,273 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:25,678 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:26,046 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:26,583 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:27,114 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:27,570 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:32,906 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:33,352 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:35,691 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:39,039 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:39,471 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:42,814 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:43,179 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:46,517 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:46,966 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:47,373 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:47,717 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:51,079 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:51,512 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:54,871 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:55,638 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:06:58,971 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:07:02,379 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 15:07:02,447 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 15:07:02,447 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 16:21:12,613 TestSendMailWithAttachment.py[line:252] INFO ------¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 16:21:17,395 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:29,045 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:34,225 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:34,431 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:34,816 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:35,175 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:35,453 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:40,637 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:40,919 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:43,109 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:46,292 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:46,524 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:49,703 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:49,915 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:53,095 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:53,377 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:53,601 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:53,796 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:56,983 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:21:57,261 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:22:00,438 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:22:00,960 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:22:04,145 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:22:07,375 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 16:22:07,410 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 16:22:07,410 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 16:23:22,637 TestSendMailWithAttachment.py[line:252] INFO ------¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 16:42:25,341 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 17:05:55,640 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 17:06:00,437 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:13,160 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:18,342 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:18,546 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:18,902 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:19,260 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:19,543 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:24,733 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:25,004 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:27,204 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:30,382 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:30,619 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:33,798 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:34,024 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:37,205 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:37,493 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:37,738 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:37,921 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:41,109 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:41,368 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:44,575 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:45,054 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® Ö´ÐÐÊ§°Ü£¡
+2019-04-22 17:06:48,252 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:51,492 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:06:51,529 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 17:06:51,529 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 17:16:29,865 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 17:16:34,683 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:16:34,683 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¿ªµÄÍøÒ³ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:16:53,640 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:16:53,640 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:16:58,957 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:16:58,958 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:16:59,348 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:16:59,348 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:16:59,896 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:16:59,896 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:00,385 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:00,385 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:00,790 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:00,790 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:06,084 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:06,084 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:06,491 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:06,491 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:08,871 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:08,871 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:12,165 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:12,165 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:12,465 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:12,465 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:15,767 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:15,767 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:16,097 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:16,097 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:19,708 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:19,709 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:20,373 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:20,373 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µã»÷ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:20,731 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:20,731 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:21,035 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:21,035 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:24,318 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:24,319 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:24,690 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:24,690 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:28,029 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:28,029 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:28,380 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 296, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "G:\KeyWordFromeWork\action\PageAction.py", line 117, in assert_string_in_pagesource
+    raise e
+  File "G:\KeyWordFromeWork\action\PageAction.py", line 113, in assert_string_in_pagesource
+    assert assertSring in driver.page_source, ("%s not foud in page source!" )% assertSring
+AssertionError:  ·¢ËÍ³É¹¦  not foud in page source!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:28,380 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:17:31,821 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:17:31,821 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:07,560 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 17:28:12,381 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:12,381 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¿ªµÄÍøÒ³ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:25,383 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:25,383 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:30,732 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:30,733 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:31,093 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:31,093 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:31,638 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:31,638 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:32,157 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:32,157 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:32,562 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:32,563 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:37,852 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:37,852 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:38,252 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:38,253 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:40,632 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:40,632 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:43,938 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:43,938 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:44,231 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:44,231 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:47,531 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:47,532 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:47,851 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:47,851 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:51,150 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:51,150 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:51,583 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:51,583 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µã»÷ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:51,951 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:51,952 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:52,252 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:52,252 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:55,555 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:55,555 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:55,934 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:55,935 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:59,341 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:59,341 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:28:59,736 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 296, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 1, in <module>
+  File "G:\KeyWordFromeWork\action\PageAction.py", line 117, in assert_string_in_pagesource
+    raise e
+  File "G:\KeyWordFromeWork\action\PageAction.py", line 113, in assert_string_in_pagesource
+    assert assertSring in driver.page_source, ("%s not foud in page source!" )% assertSring
+AssertionError:  ·¢ËÍ³É¹¦  not foud in page source!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:28:59,737 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:29:03,120 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-22 17:29:03,121 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:30:10,127 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 17:30:14,826 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:26,315 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:31,509 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:31,725 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:32,114 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:32,464 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:32,743 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:37,925 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:38,203 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:40,390 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:43,587 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:43,834 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:47,015 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:47,235 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:50,413 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:50,706 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:50,959 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:51,145 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:54,321 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:54,631 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:57,814 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:30:58,309 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 17:31:01,482 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:31:04,733 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 17:31:04,773 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 17:31:04,773 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 19:01:14,402 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 19:01:19,725 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¿ªµÄÍøÒ³ xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 19:01:29,518 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 19:01:34,223 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:45,758 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:50,941 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:51,189 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:51,667 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:52,029 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:52,323 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:57,554 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:01:57,888 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:00,133 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:03,418 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:03,617 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:06,807 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:07,055 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:10,240 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:10,502 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:10,739 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:10,935 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:16,811 TestSendMailWithAttachment.py[line:252] INFO ¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------
+2019-04-22 19:02:21,540 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:33,111 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:38,305 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:38,542 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:38,902 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:39,262 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:39,545 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:44,725 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:45,010 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:47,208 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:50,394 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:50,640 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:53,821 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:54,034 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:57,239 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:57,873 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:58,108 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:02:58,292 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:03:01,475 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:03:01,767 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:03:04,949 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:03:05,535 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 19:03:08,718 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:03:11,967 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:03:12,004 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 19:03:12,004 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 19:35:35,330 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------ [0m
+2019-04-22 19:35:40,204 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:35:53,154 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:35:58,335 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:35:58,542 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:35:58,924 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:35:59,296 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:35:59,587 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:04,790 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:05,077 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:07,292 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:10,476 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:10,718 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:13,902 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:14,125 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:17,318 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:17,595 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:17,834 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:18,020 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:21,201 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:21,477 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:24,684 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:25,183 TestSendMailWithAttachment.py[line:309] INFO ²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx
+2019-04-22 19:36:28,367 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:31,622 TestSendMailWithAttachment.py[line:317] INFO ²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡
+2019-04-22 19:36:31,663 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 19:36:31,663 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 19:38:58,411 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------ [0m
+2019-04-22 19:39:03,203 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:14,060 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:19,242 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:19,448 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:19,820 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:20,170 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:20,451 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:25,635 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:25,914 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:28,114 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:31,298 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:31,551 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:34,733 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:34,951 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:38,143 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:38,437 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:38,674 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:38,891 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:42,138 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:42,525 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:45,719 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:46,282 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-22 19:39:49,467 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:52,733 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:39:52,776 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 19:39:52,776 TestSendMailWithAttachment.py[line:328] INFO ¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ
+2019-04-22 19:42:24,253 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------ [0m
+2019-04-22 19:42:29,098 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:40,569 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:45,754 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:45,964 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:46,353 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:46,716 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:47,001 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:52,186 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:52,471 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:54,670 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:57,858 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:42:58,118 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:01,306 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:01,527 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:04,730 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:05,028 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:05,280 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:05,477 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:08,676 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:09,117 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:12,325 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:12,866 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-22 19:43:16,052 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:19,307 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 19:43:19,343 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 19:43:19,343 TestSendMailWithAttachment.py[line:328] INFO [4;33m¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ[0m
+2019-04-22 20:23:32,799 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------ [0m
+2019-04-22 20:23:37,995 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:23:50,214 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:23:55,468 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:23:55,738 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:23:56,174 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:23:56,579 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:23:56,912 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:02,148 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:02,457 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:04,686 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:07,901 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:08,207 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:11,410 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:11,663 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:14,884 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:15,218 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:15,488 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:15,689 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:18,913 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:19,260 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:22,508 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:23,097 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-22 20:24:26,315 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:29,618 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-22 20:24:29,661 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-22 20:24:29,661 TestSendMailWithAttachment.py[line:328] INFO [4;33m¹² 2 ÌõÓÃÀý£¬1 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý0Ìõ[0m
+2019-04-23 09:08:42,845 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ cookieµÇÂ¼------ [0m
+2019-04-23 09:08:48,317 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:08:48,317 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'¿ªµÄÍøÒ³ xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:00,099 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:00,100 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'Ê¹ÓÃcookieµÇÂ¼ xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:00,101 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:00,102 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------ [0m
+2019-04-23 09:09:00,444 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 296, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 0
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:00,444 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'None xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:00,771 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 296, in TestSendMailWithAttachment
+    eval(expressionStr)
+  File "<string>", line 0
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:00,771 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'None xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:06,111 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:06,111 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'ÐÝÏ¢ xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:06,479 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:06,479 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:07,035 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:07,035 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:07,562 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:07,562 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:07,988 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 298, in TestSendMailWithAttachment
+    excelObj.writeCellCurrentTime(stepSheet, rowNo=step, colsNo=testStep_runTime)
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 187, in writeTestResult
+    rowNo=rowNo, colsNo=colsDict[colsNo][0])
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 154, in writeCellCurrentTime
+    raise e
+  File "G:\KeyWordFromeWork\util\ParseExcel.py", line 152, in writeCellCurrentTime
+    self.workbook.save(self.excelFile)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\workbook\workbook.py", line 396, in save
+    save_workbook(self, filename)
+  File "G:\py\pyanzhuagn\lib\site-packages\openpyxl\writer\excel.py", line 292, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "G:\py\pyanzhuagn\lib\zipfile.py", line 1090, in __init__
+    self.fp = io.open(file, filemode)
+PermissionError: [Errno 13] Permission denied: 'G:\\KeyWordFromeWork\\testData\\126ÓÊÏä·¢ËÍÓÊ¼þ.xlsx'
+
+2019-04-23 09:09:07,988 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:09:23,322 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ cookieµÇÂ¼------ [0m
+2019-04-23 09:09:28,154 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¿ªµÄÍøÒ³ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:40,862 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ê¹ÓÃcookieµÇÂ¼ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:41,014 TestSendMailWithAttachment.py[line:252] INFO [1;32m¿ªÊ¼Ö´ÐÐÓÃÀý------ ·¢ËÍ¸½´ø¸½¼þµÄÓÊÏä------ [0m
+2019-04-23 09:09:46,212 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:46,430 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÅÐ¶Ï¡°Ð´ÐÅ¡±°´Å¥ÊÇ·ñÔÚÒ³ÃæÉÏ¿É¼û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:46,841 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷¡°Ð´ÐÅ¡±°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:47,207 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËµØÖ· Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:47,500 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÊÕ¼þÈËÓÊÏä Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:52,698 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:52,993 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÉÏ´«¸½¼þÁ´½Ó Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:55,210 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈë¸½¼þËùÔÚµÄ¾ø¶ÔÂ·¾¶ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:58,415 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:09:58,726 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Ä£Äâ¼üÅÌ»Ø³µ¼ü Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:01,925 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:02,164 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'Èç¹ûÓÊ¼þÕýÎÄframe¿òÊÇ¿É¼û£¬ÇÐ»»½ø¸ÃframeÖÐ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:05,366 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:05,674 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µã»÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:05,936 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÊäÈëÓÊ¼þÕýÎÄ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:06,146 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÍË³öÓÊ¼þÕýÎÄµÄfraem Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:09,371 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:09,679 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µ¥»÷ÓÊ¼þ·¢ËÍ°´Å¥ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:12,885 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'µÈ´ýÓÊ¼þ·¢ËÍ³É¹¦£¬·µ»Ø½á¹û Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:13,400 TestSendMailWithAttachment.py[line:309] INFO [1;31m²½Öè'¶ÏÑÔÒ³ÃæÔ´ÂëÊÇ·ñ³öÏÖ¡¯·¢ËÍ³É¹¦¡® xxxxÖ´ÐÐÊ§°Ü£¡xxxx[0m
+2019-04-23 09:10:16,608 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'ÐÝÏ¢ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:19,894 TestSendMailWithAttachment.py[line:317] INFO [1;32m²½Öè'¹Ø±Õä¯ÀÀÆ÷ Ö´ÐÐÍ¨¹ý£¡[0m
+2019-04-23 09:10:19,938 TestSendMailWithAttachment.py[line:214] DEBUG Ð´excel³ö´í£¬Traceback (most recent call last):
+  File "G:\KeyWordFromeWork\testScripts\TestSendMailWithAttachment.py", line 191, in writeTestResult
+    style=colorDict[testResult])
+KeyError: 'faild'
+
+2019-04-23 09:10:19,938 TestSendMailWithAttachment.py[line:328] INFO [4;33m¹² 3 ÌõÓÃÀý£¬2 ÌõÐèÒª±»Ö´ÐÐ£¬±¾´ÎÖ´ÐÐÍ¨¹ý1Ìõ[0m

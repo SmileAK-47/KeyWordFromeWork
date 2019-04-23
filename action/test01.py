@@ -48,6 +48,7 @@ def TestSendMailWithAttachment():
     click("xpath","//span[text()= '发送']")
     time.sleep(3)
     assert_string_in_pagesource("发送成功")
+    # print(assert_string_in_pagesource("asdf 功"))
     print("邮件发送成功")
     close_browser()
 

@@ -107,7 +107,7 @@ def click(locationType, locatorExpression, *arg):
 
 
 def assert_string_in_pagesource(assertSring, *arg):
-    # 断言页面源码是否存在某关系字或或者关键字符串中
+    # 断言页面源码是否存在某关系字或者关键字符串中
     global driver,waitUtil
     try:
         assert assertSring in driver.page_source, ("%s not foud in page source!" )% assertSring
@@ -289,4 +289,7 @@ def waitVisibilityOfElementLocated(locationType, locatorExprexxion):
         waitUtil.visibilityOfElementLocated(locationType, locatorExprexxion)
     except Exception as e:
         raise e
-########
+
+
+if __name__ =="__main__":
+    assert_string_in_pagesource("发送成功")

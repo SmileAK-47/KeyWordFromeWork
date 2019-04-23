@@ -146,7 +146,7 @@ from config.VarConfig import *
 import traceback
 from util.Log import *
 import time
-
+from logwrap import  LogWrap
 # 设置此次测试环境的环境编码utf-8
 # python3中 没有setedfaultencoding 语法
 # import sys
@@ -157,9 +157,9 @@ import time
 # import sys
 # sys.getdefaultencoding()
 
-# import sys
-# import imp
-# imp.reload(sys)
+import sys
+import imp
+imp.reload(sys)
 
 
 # 创建解析Excel对象
@@ -249,7 +249,7 @@ def TestSendMailWithAttachment():
                 successfulSteps = 0
                 # print("开始执行用例 %s" % (caseRow[testCase_testCaseName - 1].value))
 
-                logging.info("------开始执行用例------ %s------" % caseRow[testCase_testCaseName - 1].value)
+                logging.info('\033[1;32m' + '开始执行用例------ %s------ ' % caseRow[testCase_testCaseName - 1].value+ '\033[0m')
 
                 for step in range(2, stepNum + 1):
                     # 因为步骤sheet 中的第一行为标题行，无需执行
@@ -306,7 +306,7 @@ def TestSendMailWithAttachment():
                                         "faile", errorInfo, capturePic)
 
                         # print("'步骤'%s '执行失败'" % (stepRow[testStep_testStepDescribe - 1].value))
-                        logging.info("步骤'%s 执行通过！" % stepRow[testStep_testStepDescribe - 1].value)
+                        logging.info('\033[1;31m'"步骤'%s xxxx执行失败！xxxx" % stepRow[testStep_testStepDescribe - 1].value+ '\033[0m')
 
                     else:
                         # 在测试步骤sheeet中写入成功信息
@@ -314,7 +314,7 @@ def TestSendMailWithAttachment():
                         # 每成功一步 successfulSteps变量自增1
                         successfulSteps += 1
                         # print("步骤'%s 执行通过！" % (stepRow[testStep_testStepDescribe - 1].value))
-                        logging.info("步骤'%s 执行通过！" % stepRow[testStep_testStepDescribe - 1].value)
+                        logging.info('\033[1;32m' +"步骤 %s 执行通过！" % stepRow[testStep_testStepDescribe - 1].value+ '\033[0m')
 
                 if successfulSteps == stepNum - 1:
                     # 当测试步骤sheet中的步骤都执行成功
@@ -325,7 +325,7 @@ def TestSendMailWithAttachment():
                 else:
                     writeTestResult(caseSheet, idx + 2, "testCase", "faild")
             # print("共 %d 条用例，%d 条需要被执行，本次执行通过%d条" % (len(isExecuteColumn) - 1, requiredCase, successfulCase))
-        logging.info("共 %d 条用例，%d 条需要被执行，本次执行通过%d条" % (len(isExecuteColumn) - 1, requiredCase, successfulCase))
+        logging.info('\033[4;33m' + "共 %d 条用例，%d 条需要被执行，本次执行通过%d条" % (len(isExecuteColumn) - 1, requiredCase, successfulCase)+ '\033[0m')
 
     except Exception as e:
         # 打印详细的异常堆栈信息
