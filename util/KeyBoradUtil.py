@@ -2,6 +2,7 @@
 #用于实现模拟键盘单个或者组合按键
 import win32api
 import win32con
+#搜索安装pypiwin32
 class KeyboardKeys(object):
     #模拟键盘按键类
     VK_CODE = {

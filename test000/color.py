@@ -1,7 +1,7 @@
 from logwrap  import  LogWrap
 
 logwrap =LogWrap
-a =asfasdf
+
 # def socialism():
 #     print(logwrap.blue("haha"))
 #陌生感
