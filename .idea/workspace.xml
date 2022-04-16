@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/util/Log.py" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc8e0ac2-8a68-4ce7-bb4f-a6a054897831" name="Default" comment="" />
+    <list default="true" id="fc8e0ac2-8a68-4ce7-bb4f-a6a054897831" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/RunTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunTest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
