@@ -6,98 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="fc8e0ac2-8a68-4ce7-bb4f-a6a054897831" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/PageAction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/TestLogfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/TestLogfile.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/126邮箱发送邮件.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/126邮箱发送邮件.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test000/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/test000/color.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="KeyWordFromeWork" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PageAction.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/action/PageAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="291" column="8" lean-forward="true" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
-              <folding>
-                <element signature="e#41#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WaitUtil.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/WaitUtil.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-              <folding>
-                <element signature="e#31#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParseExcel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-350">
-              <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-              <folding>
-                <element signature="e#35#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RunTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mail126TestLogfile.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/Mail126TestLogfile.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestLogfile.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/TestLogfile.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="19379" column="39" lean-forward="true" selection-start-line="19379" selection-start-column="39" selection-end-line="19379" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSendMailWithAttachment.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="253" column="50" selection-start-line="253" selection-start-column="50" selection-end-line="253" selection-end-column="50" />
-              <folding>
-                <element signature="e#4188#4219#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -177,12 +92,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="278" />
     <option name="y" value="20" />
     <option name="width" value="1559" />
     <option name="height" value="1023" />
   </component>
+  <component name="ProjectId" id="27rlCq5v7DUS0UqjdllCjlGKTbO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -208,6 +127,10 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
@@ -221,19 +144,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.RunTest">
+  <component name="RunManager" selected="Python.color">
     <configuration name="RunTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KeyWordFromeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,24 +162,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="TestSendMailWithAttachment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KeyWordFromeWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testScripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testScripts/TestSendMailWithAttachment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="WaitUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KeyWordFromeWork" />
@@ -287,6 +183,30 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KeyWordFromeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test000" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test000/color.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="print_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KeyWordFromeWork" />
@@ -305,6 +225,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KeyWordFromeWork" />
@@ -323,24 +246,28 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.print_number" />
       <item itemvalue="Python.RunTest" />
-      <item itemvalue="Python.TestSendMailWithAttachment" />
       <item itemvalue="Python.WaitUtil" />
       <item itemvalue="Python.test01" />
+      <item itemvalue="Python.color" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.color" />
         <item itemvalue="Python.RunTest" />
         <item itemvalue="Python.test01" />
         <item itemvalue="Python.print_number" />
         <item itemvalue="Python.WaitUtil" />
-        <item itemvalue="Python.TestSendMailWithAttachment" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -405,9 +332,6 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <default-breakpoints>
@@ -417,7 +341,6 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="98" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
